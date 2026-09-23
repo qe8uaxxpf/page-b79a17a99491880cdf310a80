@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bkt7t.cn/sitemap.xml

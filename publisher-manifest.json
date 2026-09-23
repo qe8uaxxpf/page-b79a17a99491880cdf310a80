@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b4dc2877466f9941bda35ccd",
+  "owner": "qe8uaxxpf",
+  "repo": "page-b79a17a99491880cdf310a80",
+  "title": "HLJONE",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b79a17a99491880cdf310a80",
+      "a": "HLJONE",
+      "b": "机场官网线路发布页",
+      "entity": "HLJONE",
+      "brand": "HLJONE",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "936f66a247fdbd8bd9ca4efd873c2f0d165d4512ed5bc8e9068195ed59d51cba",
+      "content": {
+        "primary_entity": "HLJONE",
+        "keyword1": "HLJONE",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，Windows 与 macOS 可选 Clash Verge 或 ClashX，Android 用 Clash Meta，iOS 使用 Shadowrocket，路由器可部署 OpenWrt 插件。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备挑好客户端，导入 HLJONE 订阅，就能开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连上 HLJONE",
+          "AI_DESCRIPTION": "，围绕设备数量、流量周期与线路类型做选择。基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并含 IPLC 专线，团队版每月 1000GB 支持 20 台设备。月付或年付均可，年付价格为月付的十个月额度。",
+          "AI_FAQ_ANSWER_1": "基础版 ¥15/月或 ¥150/年，含 100GB 月流量和 3 台设备；旗舰版 ¥35/月或 ¥350/年，含 300GB、5 台设备与 IPLC 专线；团队版 ¥85/月或 ¥850/年，含 1000GB 和 20 台设备。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台。手机、电脑与平板可以同时使用，达到上限后新设备需替换已登录设备。",
+          "AI_FAQ_ANSWER_3": "年付按十个月价格结算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，比按月支付更省。流量与设备权益保持与对应月付套餐一致。",
+          "AI_FAQ_ANSWER_4": "在对应客户端中粘贴订阅链接并更新，即可拉取节点列表。Windows 用 Clash Verge，macOS 用 ClashX，Android 用 Clash Meta，iOS 用 Shadowrocket，路由器可部署 OpenWrt 插件。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线，针对游戏加速做了路由优化；基础版使用普通节点池，适合日常浏览与基础流媒体；团队版提供 VIP 高带宽节点和企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "HLJONE 套餐价格和包含内容分别是什么？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "年付与月付有什么区别？",
+          "AI_FAQ_QUESTION_4": "订阅应该怎么导入到客户端？",
+          "AI_FAQ_QUESTION_5": "IPLC 专线和普通线路差别在哪？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量额度、设备台数与线路类型三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月含 100GB 和 3 台设备，旗舰版 ¥35/月含 300GB、5 台设备与 IPLC 专线，团队版 ¥85/月含 1000GB 和 20 台设备。",
+          "AI_FEATURE_TEXT_2": "手机与电脑合计在线数量按套餐区分，个人使用选基础版或旗舰版，多人与多设备环境考虑团队版。",
+          "AI_FEATURE_TEXT_3": "月付适合短期使用，年付按十个月价格结算，长期使用可以降低月均成本，权益与对应月付套餐一致。",
+          "AI_FEATURE_TITLE_1": "套餐分层清晰",
+          "AI_FEATURE_TITLE_2": "按设备数量选择",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "先确定设备数量与月流量，再选择客户端并导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "HLJONE 提供基础版、旗舰版与团队版三档套餐，按流量、设备数量和线路类型区分。选择套餐后在对应客户端导入订阅即可使用，年付按十个月价格结算。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付按十个月价格结算",
+          "AI_PLANS_INTRO": "基础版适合少量设备日常使用，旗舰版适合多设备与流媒体，团队版面向多人高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量和每月流量确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "确认设备系统在客户端支持范围内，并查看套餐的设备上限。",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档导入订阅链接，然后更新节点列表。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "HLJONE 套餐选择指南"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bkt7t.cn",
+    "host": "bkt7t.cn"
+  },
+  "file_hashes": {
+    "index.html": "273fb99bf0685017e060108472784c7cd4affda16a2b910e6d5cc57ac5e9eda7",
+    "sitemap.xml": "a8ca24a812b0c0aee935a6234bf048eaaf8e44b2b79b2c83bd043cf797c8f2a7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d84f04fa744a6f778ed65235230da6a4bc92e2ec9f066de8dbc99cd9481006f3",
+    "robots.txt": "f271451a52a049bda9f05097e3708935760fea97ebced9db285ace4e99938158",
+    "705958bd212b39d6179148172c9ec36c.txt": "dc7659e40ba6e9f88470f708c4bac1c2e368016eecd210d022a6e071c6078285"
+  },
+  "revision": "9d0c8b21b270a561b5331ad8329fe7852f08d2292eba4256455823d62f99b894"
+}
